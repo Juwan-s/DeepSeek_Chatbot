@@ -8,5 +8,5 @@ Chatbot example using **Local Models**
 
 ### How to make your own Local LLM via Ollama
 
-Go to https://github.com/Juwan-s/Local_LLM_Chatbot_Service.git/main/Create_your_local_llm
+Go to https://github.com/Juwan-s/Local_LLM_Chatbot_Service.git/tree/main/Create_your_local_llm
 
