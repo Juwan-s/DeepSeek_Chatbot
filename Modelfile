@@ -1,8 +1,0 @@
-FROM DeepSeekR1-14B.gguf
-
-SYSTEM """<system message>"""
-
-PARAMETER temperature 0.5
-PARAMETER num_predict -1
-PARAMETER num_ctx 4096
-PARAMETER mirostat 2
